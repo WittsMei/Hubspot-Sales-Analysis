@@ -9,11 +9,13 @@
 
 
 ## North Start Metrics & Dimensions
-- **Total Sales**:
-- **Plan Type**:
-- **Plan Period**: 
-- **Plan Region**: 
+- **Total Sales**: Total subscription sales from Starter, Professional, Enterprise plans
+- **Plan Type**: Starter, Professional, Enterprise platforms
+- **Plan Period**: Yearly or monthly plan
+- **Plan Region**: Asia Pacific (APAC), United States, Canada, and the Caribbean (UCAN), Latin America (LATM), Europe, the Middle East, and Africa (EMEA)
 
+
+## Summary of Insights
 
 ## Suggestions & Next Step
 - Make a quaterly option to increase AOV (average order value). 
