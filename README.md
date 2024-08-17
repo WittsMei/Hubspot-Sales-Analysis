@@ -9,7 +9,11 @@
 
 
 ## North Start Metrics & Dimensions
+- **Total Sales**:
+- **Plan Type**:
+- **Plan Period**: 
+- **Plan Region**: 
 
 
 ## Suggestions & Next Step
-- Make a quaterly option. 
+- Make a quaterly option to increase AOV (average order value). 
