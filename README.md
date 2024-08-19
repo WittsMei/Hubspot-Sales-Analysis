@@ -15,6 +15,8 @@ Identify missing values, duplicated entries, and correlations between Revenue an
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/8c050c6f-4333-4f67-9582-2f56e504610a">
 
 
+## Dashboard
+The dashboard can be found in Tableau Public here. This dashboard allows users to filter by age group, campaign type, gender, and interest, with a focus on marketing metrics, purchase metrics, and claim metrics.
 
 ## North Start Metrics & Dimensions
 - **Total Sales**: Total subscription sales from Starter, Professional, Enterprise plans
