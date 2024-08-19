@@ -33,7 +33,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 #### Plan Platform Type
 - At the start of September 2022, Enterprise plans saw a remarkable spike, hitting a record high of $3.35 million in monthly bookings. However, this surge sharply declined, almost reaching its lowest point in June 2023 during the two-year period.
-- The Starters and Professionals plans experienced a complete drop-off from winter 2022 to fall 2023. This warrants an investigation to determine whether there are underlying issues with the product itself or if a new competitor has entered the market, potentially affecting these plans' performance.
+- The Starters and Professionals plans experienced a sporadic drop-off from winter 2022 to fall 2023. This warrants an investigation to determine whether there are underlying issues with the product itself or if a new competitor has entered the market, potentially impacting the performance of these plans.
 
 #### Plan Period
 - Yearly plans make up around 70% of the bookings but have exhibited a significant drop-off towards September 2023, which was more than four times the drop-off observed in monthly plans.
