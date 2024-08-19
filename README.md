@@ -23,12 +23,25 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 ## North Start Metrics & Dimensions
 - **Total Sales**: Total subscription sales from Starter, Professional, Enterprise plans
-- **Plan Type**: Starter, Professional, Enterprise platforms
+- **Plan Platform Type**: Starter, Professional, Enterprise platforms
 - **Plan Period**: Yearly or monthly plan
 - **Plan Region**: Asia Pacific (APAC), United States, Canada, and the Caribbean (UCAN), Latin America (LATM), Europe, the Middle East, and Africa (EMEA)
 
 
 ## Summary of Insights
+
+#### Plan Platform Type
+- . 
+- .
+
+#### Plan Period
+- .
+- .
+
+
+#### Plan Region
+- .
+
 
 ## Suggestions & Next Step
 - Make a quaterly option to increase AOV (average order value). 
