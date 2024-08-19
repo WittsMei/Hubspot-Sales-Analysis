@@ -2,7 +2,9 @@
 
 ## The goal of this project is to investigate the sales performance from 2022 to 2023 at HubSpot in order to surface recommendations on enhancing sales tactics and fostering overall growth.
 
-### HubSpot is a leading customer relationship management (CRM) platform that provides a comprehensive suite of tools designed to help businesses grow by attracting, engaging, and delighting customers. Founded in 2006 by Brian Halligan and Dharmesh Shah, HubSpot initially started as an inbound marketing platform, but it has since expanded its offerings to include sales, customer service, content management, and operations solutions.
+### Founded in 2006, HubSpot is a leading customer relationship management (CRM) platform that offers a comprehensive suite of tools for marketing, sales, customer service, and content management. Serving millions of customers worldwide, HubSpot enables businesses to grow and manage their relationships with customers effectively. In recent years, HubSpot has continuously innovated its product offerings, expanding its subscription services to include various plans tailored to the diverse needs of its clients.
+
+In 2022 and 2023, HubSpot focused on optimizing its subscription sales strategies, launching targeted marketing campaigns, and introducing new product features to enhance customer engagement and retention. The subscription plans, ranging from Starter to Enterprise, each with distinct pricing tiers and service levels, have been instrumental in driving HubSpot’s revenue growth. With a dedicated data team, HubSpot aims to analyze the performance of these subscription plans, evaluate customer acquisition and retention rates, and optimize its sales strategies for future growth. The company’s efforts are geared toward two primary objectives: 1) increasing the number of subscribers, and 2) expanding HubSpot’s global presence and market share.
 
 
 
