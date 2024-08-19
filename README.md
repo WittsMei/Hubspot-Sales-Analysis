@@ -1,6 +1,6 @@
 # Walmart-Ecommerce-Sales-Analysis
 
-## The goal of this project is to investigate the sales performance from 2022 to 2023 at HubSpot in order to surface recommendations for enhancing sales tactics and fostering overall growth.
+## The goal of this project is to investigate the sales performance from 2022 to 2023 at HubSpot in order to surface recommendations on enhancing sales tactics and fostering overall growth.
 
 **Founded in 2006, HubSpot is a leading customer relationship management (CRM) platform that offers a comprehensive suite of tools for marketing, sales, customer service, and content management.** Serving millions of customers worldwide, HubSpot enables businesses to grow and manage their relationships with customers effectively. In recent years, HubSpot has continuously innovated its product offerings, expanding its subscription services to include various plans tailored to the diverse needs of its clients.
 
