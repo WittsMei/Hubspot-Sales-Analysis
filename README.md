@@ -10,7 +10,7 @@ In 2022 and 2023, HubSpot focused on optimizing its subscription sales strategie
 
 ## Data cleaning & Explorenatory analysis
 
-Identify any missing values and discovery the correlation between Revenue and the four dimensions—Product, Plan Period, Customer Platform, and Region. For more details, click [here](https://github.com/WittsMei/Hubspot-Subscription-Sales-Analysis-Overview/blob/main/Hubspot%20Data%20Cleaning%20%26%20EDA.ipynb).
+missing values, duplicated entries, and correlations between Revenue and the four dimensions—Product, Plan Period, Customer Platform, and Region. For more details, click [here](https://github.com/WittsMei/Hubspot-Subscription-Sales-Analysis-Overview/blob/main/Hubspot%20Data%20Cleaning%20%26%20EDA.ipynb).
 
 
 ## North Start Metrics & Dimensions
