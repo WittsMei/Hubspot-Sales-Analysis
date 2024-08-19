@@ -23,7 +23,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 ## North Start Metrics & Dimensions
 - **Total Sales**: Total subscription sales from Starter, Professional, Enterprise plans
-- **Plan Platform Type**: Starter, Professional, Enterprise platforms
+- **Plan Platform Type**: Starter, Professional, Enterprise 
 - **Plan Period**: Yearly or monthly plan
 - **Plan Region**: Asia Pacific (APAC), United States, Canada, and the Caribbean (UCAN), Latin America (LATM), Europe, the Middle East, and Africa (EMEA)
 
