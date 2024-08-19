@@ -10,7 +10,7 @@ In 2022 and 2023, HubSpot focused on optimizing its subscription sales strategie
 
 ## Data cleaning & Explorenatory analysis
 
-Identify any missing values and discovery the correlation between key numeric metrics. For more details, click here.
+Identify any missing values and discovery the correlation between key numeric metrics. For more details, click [here](https://github.com/WittsMei/Hubspot-Subscription-Sales-Analysis-Overview/blob/main/Hubspot%20Data%20Cleaning%20%26%20EDA.ipynb).
 
 
 ## North Start Metrics & Dimensions
