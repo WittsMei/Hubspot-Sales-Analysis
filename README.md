@@ -45,4 +45,29 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 
 ## Suggestions & Next Step
+#### Enterprise Plan Performance
+- Investigate the Cause of the Decline: The sharp decline in Enterprise plans from September 2022 to June 2023 requires a detailed analysis. Review any changes in product offerings, pricing, or market conditions that may have contributed to this drop.
+- Customer Feedback: Conduct surveys or interviews with Enterprise plan customers to understand their concerns or reasons for downgrading or canceling. This feedback could provide insights into necessary adjustments.
+- Targeted Promotions: Consider launching targeted promotions or value-added services to reinvigorate interest in the Enterprise plan, particularly focusing on the features that initially drove the spike in September 2022.
+
+#### Starters and Professionals Plans:
+- Analyze Market Competition: The volatility in these plans may be influenced by new competitors. Conduct a competitive analysis to identify any new entrants in the market and how they might be affecting customer choices.
+- Product Improvement: Evaluate the features and pricing of the Starters and Professionals plans. If product issues are identified, prioritize enhancements to address customer pain points and stabilize performance.
+Monitor Trends: Continuously monitor the performance of these plans to detect early signs of market shifts, enabling quicker responses to emerging trends.
+
+#### Yearly vs. Monthly Plan Trends:
+- Focus on Retention for Yearly Plans: Given the significant drop-off in yearly plans, particularly in September 2023, implement retention strategies such as loyalty programs, renewal discounts, or added incentives for long-term commitments.
+- Analyze Customer Preferences: Investigate why customers might be shifting away from yearly plans in favor of monthly options. Understanding their preferences can help tailor offers that better align with their needs.
+Reassess Yearly Plan Value Proposition: Ensure that the value proposition of yearly plans is clearly communicated and perceived as advantageous compared to monthly options.
+
+####Regional Strategy Adjustment:
+- Strengthen UCAN Market: Given that UCAN dominates both monthly and yearly bookings, prioritize this region in your marketing and sales strategies. Consider further investment in customer acquisition and retention programs tailored to this market.
+
+- Address Regional Drop-Offs: Since all regions showed a consistent decline from summer 2022 to summer 2023, investigate regional-specific factors contributing to this trend. Adjust marketing strategies and product offerings to better cater to the unique needs of each region.
+Expand Regional Focus: If other regions show potential for growth, consider developing region-specific campaigns or introducing products that cater specifically to their markets.
+
+
+#### Continuous Monitoring and Data Analysis:
+- Establish Regular Reporting: Set up a system for regular monitoring of plan performance, customer feedback, and market conditions. This will allow for timely adjustments and proactive decision-making.
+- Predictive Analytics: Use predictive analytics to anticipate future trends in bookings based on historical data, helping to optimize marketing and sales strategies ahead of time.
 - Make a quaterly option to increase AOV (average order value). 
