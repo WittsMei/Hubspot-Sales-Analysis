@@ -10,6 +10,8 @@ In 2022 and 2023, HubSpot focused on optimizing its subscription sales strategie
 
 ## Data cleaning & Explorenatory analysis
 
+Identify any missing values and discovery the correlation between key numeric metrics. For more details, click here.
+
 
 ## North Start Metrics & Dimensions
 - **Total Sales**: Total subscription sales from Starter, Professional, Enterprise plans
