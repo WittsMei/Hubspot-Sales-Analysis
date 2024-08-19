@@ -45,6 +45,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 
 ## Suggestions & Next Step
+
 #### Enterprise Plan Performance
 - Investigate the Cause of the Decline: The sharp decline in Enterprise plans from September 2022 to June 2023 requires a detailed analysis. Review any changes in product offerings, pricing, or market conditions that may have contributed to this drop.
 - Customer Feedback: Conduct surveys or interviews with Enterprise plan customers to understand their concerns or reasons for downgrading or canceling. This feedback could provide insights into necessary adjustments.
@@ -60,7 +61,7 @@ Monitor Trends: Continuously monitor the performance of these plans to detect ea
 - Analyze Customer Preferences: Investigate why customers might be shifting away from yearly plans in favor of monthly options. Understanding their preferences can help tailor offers that better align with their needs.
 Reassess Yearly Plan Value Proposition: Ensure that the value proposition of yearly plans is clearly communicated and perceived as advantageous compared to monthly options.
 
-####Regional Strategy Adjustment:
+#### Regional Strategy Adjustment:
 - Strengthen UCAN Market: Given that UCAN dominates both monthly and yearly bookings, prioritize this region in your marketing and sales strategies. Consider further investment in customer acquisition and retention programs tailored to this market.
 
 - Address Regional Drop-Offs: Since all regions showed a consistent decline from summer 2022 to summer 2023, investigate regional-specific factors contributing to this trend. Adjust marketing strategies and product offerings to better cater to the unique needs of each region.
