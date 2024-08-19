@@ -18,6 +18,9 @@ Identify missing values, duplicated entries, and correlations between Revenue an
 ## Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/HubspotSalesOverview/HubspotSalesOverview?publish=yes). This dashboard allows users to filter by date, platform type, product, and region, with a focus on revenue metrics.
 
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/1b921955-fdb0-434b-b16d-e43ccfbea967">
+
+
 ## North Start Metrics & Dimensions
 - **Total Sales**: Total subscription sales from Starter, Professional, Enterprise plans
 - **Plan Type**: Starter, Professional, Enterprise platforms
