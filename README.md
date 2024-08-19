@@ -1,4 +1,4 @@
-# Walmart-Ecommerce-Sales-Analysis
+# Hubspot-Subscription-Sales-Analysis
 
 ## The goal of this project is to investigate the sales performance from 2022 to 2023 at HubSpot in order to surface recommendations on enhancing sales tactics and fostering overall growth.
 
