@@ -33,14 +33,15 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 #### Plan Platform Type
 - At the start of September 2022, Enterprise plans saw a remarkable spike, hitting a record high of $3.35 million in monthly bookings. However, this surge sharply declined, almost reaching its lowest point in June 2023 during the two-year period.
-- The Starters and Professionals plans experienced a sporadic drop-off from winter 2022 to fall 2023. This warrants an investigation to determine whether there are underlying issues with the product itself or if a new competitor has entered the market, potentially impacting the performance of these plans.
+- Starters and Professionals plans exhibited significant volatility from summer 2022 to fall 2023. This fluctuation warrants an investigation to determine whether there are underlying issues with the products themselves or if a new competitor has entered the market, potentially impacting the performance of these plans.
 
 #### Plan Period
 - Yearly plans make up around 70% of the bookings but have exhibited a significant drop-off towards September 2023, which was more than four times the drop-off observed in monthly plans.
 
 
 #### Plan Region
-- UCAN made up almost two third of the monthly bookings, and most of the yearly bookings was contained in this region.
+- UCAN accounted for nearly two-thirds of the monthly bookings, with the majority of yearly and marketing hub bookings also concentrated in this region.
+- From summer 2022 to summer 2023, all regions exhibited a consistent drop-off in bookings.
 
 
 ## Suggestions & Next Step
