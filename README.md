@@ -31,7 +31,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 ## Summary of Insights
 
 #### Plan Platform Type
-- . 
+- At the start of Q3 2022, Enterprise plans saw a remarkable spike, hitting a record high of $9.627 million in bookings over three months. However, this surge sharply declined, reaching its lowest point in Q2 2023 during the two-year period.
 - .
 
 #### Plan Period
