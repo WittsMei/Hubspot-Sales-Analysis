@@ -37,11 +37,10 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 #### Plan Period
 - Yearly plans make up around 70% of the bookings but have exhibited a significant drop-off towards September 2023, which was more than four times the drop-off observed in monthly plans.
-- .
 
 
 #### Plan Region
-- .
+- UCAN made up almost two third of the monthly bookings, and most of the yearly bookings was contained in this region.
 
 
 ## Suggestions & Next Step
