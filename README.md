@@ -44,7 +44,6 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 #### Plan Region
 - UCAN accounted for nearly two-thirds of the total bookings, with the majority of yearly plans and marketing hub bookings concentrated in this region.
-- From summer 2022 to summer 2023, all regions experienced a gradual decline in bookings.
 
 
 ## Suggestions & Next Step
