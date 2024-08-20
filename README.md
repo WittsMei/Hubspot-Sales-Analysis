@@ -51,3 +51,5 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 - Deep dive into the factors behind the sharp decline in Enterprise plan bookings after September 2022 and the significant fluctuations in Starters and Professionals plans from summer 2022 to fall 2023. Analyze key aspects such as market competition, pricing strategies, and product features. Also, expand this analysis for more years to determine if these trends are post-pandemic-related or consistent across all time.
 
 - To address the decline in yearly plans, consider implementing promotional offers or incentives, such as trials, to drive bookings. Is it possible to introduce a quarterly plan option to boost the average order value (AOV)?
+
+- While regional trends have remained relatively consistent, LATM has shown the most volatility. Investigate whether there are specific features or promotional strategies that could help stabilize this region.
