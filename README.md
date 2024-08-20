@@ -33,7 +33,8 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 #### Plan Platform Type
 - In September 2022, HubSpot’s Enterprise plans experienced a remarkable spike, reaching a record high of $3.35 million in monthly bookings. However, this momentum sharply declined, with bookings dropping to nearly their lowest point of $2.31 million by June 2023 during the two-year period.
-- Starters and Professionals plans exhibited significant volatility from summer 2022 to fall 2023. This fluctuation warrants an investigation to determine whether there are underlying issues with the products themselves or if a new competitor has entered the market, potentially impacting the performance of these plans.
+- Starters and Professionals plans exhibited significant volatility from summer 2022 to fall 2023. This fluctuation warrants investigation to determine whether the issues stem from the products themselves or if post-pandemic shifts in business priorities and digital strategies are affecting their performance.
+
 
 #### Plan Period
 - Yearly plans make up around 70% of the bookings but have exhibited a significant drop-off towards September 2023, which was more than four times the drop-off observed in monthly plans.
