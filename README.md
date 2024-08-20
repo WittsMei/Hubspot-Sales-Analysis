@@ -49,12 +49,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 ## Suggestions & Next Step
 
 #### Plan Platform Type
-- Investigate the Cause of the Decline: The sharp decline in Enterprise plans from September 2022 to June 2023 requires a detailed analysis. Review any changes in product offerings, pricing, or market conditions that may have contributed to this drop.
-- Customer Feedback: Conduct surveys or interviews with Enterprise plan customers to understand their concerns or reasons for downgrading or canceling. This feedback could provide insights into necessary adjustments.
-- Targeted Promotions: Consider launching targeted promotions or value-added services to reinvigorate interest in the Enterprise plan, particularly focusing on the features that initially drove the spike in September 2022.
-- Analyze Market Competition: The volatility in these plans may be influenced by new competitors. Conduct a competitive analysis to identify any new entrants in the market and how they might be affecting customer choices.
-- Product Improvement: Evaluate the features and pricing of the Starters and Professionals plans. If product issues are identified, prioritize enhancements to address customer pain points and stabilize performance.
-Monitor Trends: Continuously monitor the performance of these plans to detect early signs of market shifts, enabling quicker responses to emerging trends.
+- Deep dive into the factors behind the sharp decline in Enterprise plan bookings after September 2022 and the significant fluctuations in Starters and Professionals plans from summer 2022 to fall 2023. Consider factors such as market competition, pricing changes, or post-pandemic related in customer needs.
 
 #### Plan Period
 - Focus on Retention for Yearly Plans: Given the significant drop-off in yearly plans, particularly in September 2023, implement retention strategies such as loyalty programs, renewal discounts, or added incentives for long-term commitments.
