@@ -18,7 +18,8 @@ Identify missing values, duplicated entries, and correlations between Revenue an
 ## Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/HubspotSalesOverview/HubspotSalesOverview?publish=yes). This dashboard allows users to filter by date, platform type, product, and region, with a focus on revenue metrics.
 
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/6db17bc9-6467-4316-a0e7-05ae7a8a4379">
+
+<img width="940" alt="Screenshot 2024-08-20 at 13 21 52" src="https://github.com/user-attachments/assets/b1963f91-f9e4-4378-bf80-4f771430d677">
 
 
 
