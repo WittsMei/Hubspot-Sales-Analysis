@@ -48,22 +48,8 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 ## Suggestions & Next Step
 
-#### Plan Platform Type
 - Deep dive into the factors behind the sharp decline in Enterprise plan bookings after September 2022 and the significant fluctuations in Starters and Professionals plans from summer 2022 to fall 2023. Consider factors such as market competition, product features, or post-pandemic related in customer needs. Are there any product features we can implement to combat these dips?
 
-#### Plan Period
-- Focus on Retention for Yearly Plans: Given the significant drop-off in yearly plans, particularly in September 2023, implement retention strategies such as loyalty programs, renewal discounts, or added incentives for long-term commitments.
-- Analyze Customer Preferences: Investigate why customers might be shifting away from yearly plans in favor of monthly options. Understanding their preferences can help tailor offers that better align with their needs.
-Reassess Yearly Plan Value Proposition: Ensure that the value proposition of yearly plans is clearly communicated and perceived as advantageous compared to monthly options.
+- 
 
-#### Plan Regional:
-- Strengthen UCAN Market: Given that UCAN dominates both monthly and yearly bookings, prioritize this region in your marketing and sales strategies. Consider further investment in customer acquisition and retention programs tailored to this market.
-
-- Address Regional Drop-Offs: Since all regions showed a consistent decline from summer 2022 to summer 2023, investigate regional-specific factors contributing to this trend. Adjust marketing strategies and product offerings to better cater to the unique needs of each region.
-Expand Regional Focus: If other regions show potential for growth, consider developing region-specific campaigns or introducing products that cater specifically to their markets.
-
-
-#### Continuous Monitoring and Data Analysis:
-- Establish Regular Reporting: Set up a system for regular monitoring of plan performance, customer feedback, and market conditions. This will allow for timely adjustments and proactive decision-making.
-- Predictive Analytics: Use predictive analytics to anticipate future trends in bookings based on historical data, helping to optimize marketing and sales strategies ahead of time.
 - Make a quaterly option to increase AOV (average order value). 
