@@ -37,13 +37,13 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 
 #### Plan Period
-- Yearly plans, which account for approximately 70% of total bookings, saw a substantial decline by September 2023 compared to July 2022—exceeding the drop in monthly plan bookings by more than four times.
+- Yearly plans, which made up approximately 70% of total bookings, saw a substantial decline by September 2023 compared to July 2022—exceeding the drop-off in monthly plan bookings by more than four times.
 
 
 
 #### Plan Region
-- UCAN accounted for nearly two-thirds of the monthly bookings, with the majority of yearly and marketing hub bookings also concentrated in this region.
-- From summer 2022 to summer 2023, all regions exhibited a consistent drop-off in bookings.
+- UCAN accounted for nearly two-thirds of the total bookings, with the majority of yearly plans and marketing hub bookings concentrated in this region.
+- From summer 2022 to summer 2023, all regions experienced a gradual decline in bookings.
 
 
 ## Suggestions & Next Step
