@@ -37,7 +37,8 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 
 #### Plan Period
-- Yearly plans, which account for approximately 70% of bookings, have experienced a significant drop-off by September 2023—more than four times the decline in monthly bookings seen in monthly plans.
+- Yearly plans, which account for approximately 70% of total bookings, saw a substantial decline by September 2023 compared to July 2022—exceeding the drop in monthly plan bookings by more than four times.
+
 
 
 #### Plan Region
