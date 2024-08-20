@@ -49,7 +49,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 ## Suggestions & Next Step
 
 #### Plan Platform Type
-- Deep dive into the factors behind the sharp decline in Enterprise plan bookings after September 2022 and the significant fluctuations in Starters and Professionals plans from summer 2022 to fall 2023. Consider factors such as market competition, pricing changes, or post-pandemic related in customer needs.
+- Deep dive into the factors behind the sharp decline in Enterprise plan bookings after September 2022 and the significant fluctuations in Starters and Professionals plans from summer 2022 to fall 2023. Consider factors such as market competition, product features, or post-pandemic related in customer needs. Are there any product features we can implement to combat these dips?
 
 #### Plan Period
 - Focus on Retention for Yearly Plans: Given the significant drop-off in yearly plans, particularly in September 2023, implement retention strategies such as loyalty programs, renewal discounts, or added incentives for long-term commitments.
