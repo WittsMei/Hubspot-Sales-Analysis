@@ -37,7 +37,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 
 #### Plan Period
-- Yearly plans make up around 70% of the bookings but have exhibited a significant drop-off towards September 2023, which was more than four times the drop-off observed in monthly plans.
+- Yearly plans account for approximately 70% of bookings but have experienced a significant drop-off by September 2023—more than four times the decline in revenue observed for monthly plans.
 
 
 #### Plan Region
