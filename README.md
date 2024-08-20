@@ -48,7 +48,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 
 ## Suggestions & Next Step
 
-- Deep dive into the factors behind the sharp decline in Enterprise plan bookings after September 2022 and the significant fluctuations in Starters and Professionals plans from summer 2022 to fall 2023. Consider factors such as market competition, product features, or post-pandemic related in customer needs. Are there any product features we can implement to combat these dips?
+- Deep dive into the factors behind the sharp decline in Enterprise plan bookings after September 2022 and the significant fluctuations in Starters and Professionals plans from summer 2022 to fall 2023. Consider factors such as market competition, pricing strategies, product features. Also, expand this analysis to include data from previous years to determine if these trends are post-pandemic-related or consistent across all time.
 
 - 
 
