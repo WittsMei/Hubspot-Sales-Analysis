@@ -15,12 +15,6 @@ Identify missing values, duplicated entries, and correlations between Revenue an
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/8c050c6f-4333-4f67-9582-2f56e504610a">
 
 
-## Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/HubspotSalesOverview/HubspotSalesOverview?publish=yes). This dashboard allows users to filter by date, platform type, product, and region, with a focus on revenue metrics.
-
-
-<img width="940" alt="Screenshot 2024-08-20 at 13 21 52" src="https://github.com/user-attachments/assets/b1963f91-f9e4-4378-bf80-4f771430d677">
-
 
 
 ## North Start Metrics & Dimensions
@@ -53,3 +47,13 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 - To address the decline in yearly plans, consider implementing promotional offers or incentives, such as trials, to drive bookings. Is it possible to introduce a quarterly plan option to boost the average order value (AOV)?
 
 - While regional trends have remained relatively consistent, LATM has shown the most volatility. Investigate whether there are specific features or promotional strategies that could help stabilize this region.
+
+
+## Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/witts.jianming.mei/viz/HubspotSalesOverview/HubspotSalesOverview?publish=yes). This dashboard allows users to filter by date, platform type, product, and region, with a focus on revenue metrics.
+
+
+<img width="940" alt="Screenshot 2024-08-20 at 13 21 52" src="https://github.com/user-attachments/assets/b1963f91-f9e4-4378-bf80-4f771430d677">
+
+
+
